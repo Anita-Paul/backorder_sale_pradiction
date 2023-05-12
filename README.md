@@ -1,5 +1,12 @@
 # backorder_sale_prediction
 forecasting the sales of a specific product based on the given dataset, with a particular focus on predicting backorder sales
+Requirements
+
+The following softwares/packages are required for running the scripts:
+
+    Python 3.6.1
+    Scikit-learn 0.19.0
+    Imbalanced-learn 0.2.1
 
 
 ## Problem Statement
