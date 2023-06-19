@@ -1,7 +1,7 @@
 # backorder_sale_prediction
 forecasting the sales of a specific product based on the given dataset, with a particular focus on predicting backorder sales
 Requirements
-
+Linkedin: https://www.linkedin.com/posts/anitapaul_backorder-sale-prediction-activity-7062811239986429955-bSNi?utm_source=share&utm_medium=member_desktop
 The following softwares/packages are required for running the scripts:
 
     Python 3.6.1
